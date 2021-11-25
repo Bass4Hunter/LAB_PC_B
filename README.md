@@ -13,9 +13,9 @@ Gabriel David Gonza Condori
 # 04_nov_2021
 ![Alt text](04-nov-2021/judgeOnline/1.png?raw=true "Title")
 ![Alt text](04-nov-2021/judgeOnline/2.png?raw=true "Title")
+
 # 18_nov_2021
-
-
 ![Alt text](18-nov-2021/judgeOnline/longest-common-subsequence.png?raw=true "Title")
 ![Alt text](18-nov-2021/judgeOnline/min_path_sum_ii.png?raw=true "Title")
 ![Alt text](18-nov-2021/judgeOnline/3.png?raw=true "Title")
+![Alt text](18-nov-2021/judgeOnline/4.png?raw=true "Titl")
